@@ -1,0 +1,13 @@
+﻿  Basebill.cpp
+  FirstTier.cpp
+  Populate_Account_Numbers.cpp
+  SecondTier.cpp
+  ThirdTier.cpp
+  Water_Bill.cpp
+C:\Users\power\Documents\syracuse_university\CIS 554 Object Oriented Programming C++\Final_Project_C++\Water_Bill\Water_Bill.cpp(233,7): warning C4101: 'ch': unreferenced local variable
+  Generating Code...
+C:\Users\power\Documents\syracuse_university\CIS 554 Object Oriented Programming C++\Final_Project_C++\Water_Bill\ThirdTier.cpp(18): warning C4715: 'ThirdTier::CalculatePrice': not all control paths return a value
+C:\Users\power\Documents\syracuse_university\CIS 554 Object Oriented Programming C++\Final_Project_C++\Water_Bill\SecondTier.cpp(16): warning C4715: 'SecondTier::CalculatePrice': not all control paths return a value
+C:\Users\power\Documents\syracuse_university\CIS 554 Object Oriented Programming C++\Final_Project_C++\Water_Bill\FirstTier.cpp(17): warning C4715: 'FirstTier::CalculatePrice': not all control paths return a value
+C:\Users\power\Documents\syracuse_university\CIS 554 Object Oriented Programming C++\Final_Project_C++\Water_Bill\Basebill.cpp(25): warning C4715: 'Basebill::CalculatePrice': not all control paths return a value
+  Water_Bill.vcxproj -> C:\Users\power\Documents\syracuse_university\CIS 554 Object Oriented Programming C++\Final_Project_C++\Water_Bill\x64\Debug\Water_Bill.exe
